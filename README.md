@@ -170,6 +170,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Rodrigo Manguinho](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA)                                                                  | Youtube/Cursos              | Não         | PT-BR    |
 | [School of Net](https://www.schoolofnet.com/cursos/gratuitos)                                                                                  | Cursos                      | Sim         | PT-BR    |
 | [Scrimba](https://www.scrimba.com)                                                                                                             | Cursos                      | Não         | EN       |
+| [Se Candidate, Mulher](https://secandidatemulher.com.br/ | https://www.linkedin.com/company/se-candidate-mulher/)                              | Cursos/Mentoria             | Sim         | PT-BR    |
 | [Senai](https://online.sp.senai.br/institucional/3722/3840/cursos-gratuitos)                                                                   | Cursos                      | Sim         | PT-BR    |
 | [Simple Programming](https://www.youtube.com/channel/UCDnZ8f2yo-JGBh8rOn30OAg)                                                                   | Youtube                     | Não        | EN    |
 | [SpaceDevs](https://testautomationu.applitools.com)                                                                                            | Youtube/Cursos                      | Não         | PT-BR       |
